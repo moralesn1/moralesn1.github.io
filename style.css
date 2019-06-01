@@ -21,3 +21,17 @@ a.nav-link img {
 
 }
 
+/* Footer CSS */
+.page-footer {
+    background-color: black;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    color: white;
+    
+}
+
+
+a.social-media-links img {
+    height: 30px;
+}
