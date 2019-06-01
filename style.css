@@ -2,6 +2,9 @@ nav.navbar.navbar-expand-lg.navbar-light {
     background-color: black;
 }
 
+.navbar-light .navbar-brand {
+    color: white;
+}
 
 ul.navbar-nav li.nav-item a.nav-link {
     color: white;
