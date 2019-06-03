@@ -6,11 +6,14 @@ body {
 /* profile-image */
 div.profile-image img {
     text-align: center;
-    padding-bottom: 100px;
-    margin-bottom: 100px;
     margin-top: 100px;
-    height: 400px;
+    height: 300px;
     width: 300px;
+}
+
+div.profile-image p {
+    color: white;
+    font-size: 18px;
 }
 
 
@@ -37,6 +40,10 @@ ul.nav.navbar-nav.navbar-right {
 a.nav-link img {
     height: 35px;
 
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
 }
 
 /* Footer CSS */
