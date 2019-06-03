@@ -42,6 +42,10 @@ a.nav-link img {
 
 }
 
+.navbar-light .navbar-toggler-icon {
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
+}
+
 /* Footer CSS */
 .page-footer {
     background-color: black;
