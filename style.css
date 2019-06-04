@@ -51,7 +51,10 @@ ul.nav.navbar-nav.navbar-right {
 
 a.nav-link img {
     height: 35px;
+}
 
+a.nav-link img:hover {
+    opacity: 0.3;
 }
 
 
