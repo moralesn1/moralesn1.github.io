@@ -37,10 +37,23 @@ ul.nav.navbar-nav.navbar-right {
     justify-content: flex-end;
 }
 
+/* Navbar hover color */
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(116, 116, 116);
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: rgb(116, 116, 116);
+}
+
+
+
 a.nav-link img {
     height: 35px;
 
 }
+
 
 .navbar-light .navbar-toggler-icon {
     background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
