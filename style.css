@@ -21,6 +21,9 @@ div.profile-image p {
 /* Navbar */
 nav.navbar.navbar-expand-lg.navbar-light {
     background-color: rgb(0, 0, 0);
+    width: 100%;
+    position: fixed;
+    top: 0;
 }
 
 .navbar-light .navbar-brand {
@@ -62,11 +65,15 @@ a.nav-link img:hover {
     background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
 }
 
+/* Projects */
+.projects h4, p{
+    color: white;
+}
+
 /* Footer CSS */
 .page-footer {
     background-color: black;
     width: 100%;
-    position: fixed;
     bottom: 0;
     color: rgb(255, 255, 255);
     
