@@ -20,10 +20,11 @@ div.profile-image p {
 
 /* Navbar */
 nav.navbar.navbar-expand-lg.navbar-light {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0, 0.5);
     width: 100%;
     position: fixed;
     top: 0;
+    z-index: 1;
 }
 
 .navbar-light .navbar-brand {
@@ -89,6 +90,10 @@ a.nav-link img:hover {
     color: white;
 }
 
+div.row.top-buffer { 
+    margin-top: 50px; 
+}
+
 /* Footer CSS */
 .page-footer {
     background-color: black;
@@ -101,4 +106,13 @@ a.nav-link img:hover {
 
 a.social-media-links img {
     height: 30px;
+}
+
+/* <HR> */
+.section-divider {
+
+}
+
+.section-divider {
+
 }
