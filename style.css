@@ -73,6 +73,7 @@ a.nav-link img:hover {
     height: 100vh;
     width: 100%;
     padding-bottom: 100px;
+
 }
 
 .hero-container {
@@ -85,7 +86,20 @@ a.nav-link img:hover {
     width: 300px;
 }
 
+.hero p {
+    font-size: 18px;
+}
+
 /* Projects */
+.projects {
+    display: block;
+    clear: both;
+}
+.projects h3 {
+    color: white;
+    font-size: 30px;
+    padding-bottom: 50px;
+}
 .projects h4, p{
     color: white;
 }
@@ -93,6 +107,7 @@ a.nav-link img:hover {
 div.row.top-buffer { 
     margin-top: 50px; 
 }
+
 
 /* Footer CSS */
 .page-footer {
@@ -109,10 +124,11 @@ a.social-media-links img {
 }
 
 /* <HR> */
-.section-divider {
-
-}
-
-.section-divider {
-
+hr.hr-divider {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    border: 0;
+    border-top: 1px solid rgb(255, 255, 255);
+    width: 50%;
+    clear: both;
 }
