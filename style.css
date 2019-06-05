@@ -94,6 +94,14 @@ a.nav-link img:hover {
     font-size: 18px;
 }
 
+/* Skills */
+.skills {
+    color: white;
+    display: block;
+    clear: both;
+}
+
+
 /* Projects */
 .projects {
     display: block;
