@@ -101,6 +101,11 @@ a.nav-link img:hover {
     clear: both;
 }
 
+.skills img {
+    height: 30px;
+    width: 30px;
+}
+
 
 /* Projects */
 .projects {
