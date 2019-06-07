@@ -125,6 +125,7 @@ a.nav-link img:hover {
     margin-bottom: 50px;
     padding: 10px;
     border: 1px solid white;
+    border-radius: 25px;
 }
 /* Skill Title */
 
@@ -152,6 +153,7 @@ a.nav-link img:hover {
     color: white;
     font-size: 30px;
     padding-bottom: 50px;
+    padding-top: 50px;
 }
 .projects h4, p{
     color: white;
