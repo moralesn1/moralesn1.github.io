@@ -86,7 +86,7 @@ a.nav-link img:hover {
 .hero img {
   text-align: center;
   height: auto;
-  width: 450px;
+  width: 600px;
 }
 
 .hero p {
@@ -141,25 +141,25 @@ a.nav-link img:hover {
 
 .
 
-/* Projects */
+/* portfolio */
 
 
-.projects {
+.portfolio {
   display: block;
   clear: both;
 }
-.projects h3 {
+.portfolio h3 {
   color: white;
   font-size: 30px;
   padding-bottom: 50px;
   padding-top: 50px;
 }
-.projects h4,
+.portfolio h4,
 p {
   color: white;
 }
 
-.projects p.techstack {
+.portfolio p.techstack {
   font-family: "Open Sans Condensed", sans-serif;
   font-size: 22px;
 }
