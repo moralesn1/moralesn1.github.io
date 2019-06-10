@@ -83,6 +83,7 @@ a.nav-link img:hover {
 }
 
 .hero img {
+  margin-top: 50px;
   height: 300px;
   margin-bottom: 50px;
 }
