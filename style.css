@@ -54,12 +54,11 @@ ul.nav.navbar-nav.navbar-right {
 }
 
 img.navbar-img {
-  position: relative;
   height: 100px;
 }
 
 a.nav-link img {
-  height: 35px;
+  width: 35px;
 }
 
 a.nav-link img:hover {
@@ -84,9 +83,8 @@ a.nav-link img:hover {
 }
 
 .hero img {
-  text-align: center;
-  height: auto;
-  width: 600px;
+  height: 300px;
+  margin-bottom: 50px;
 }
 
 .hero p {
