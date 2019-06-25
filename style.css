@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 /* body */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Raleway&display=swap");
 body {
@@ -172,6 +176,10 @@ div.row.top-buffer {
   margin-top: 50px;
 }
 
+img.project-images:hover {
+  opacity: 0.6;
+}
+
 /* Footer CSS */
 .page-footer {
   background-color: black;
@@ -193,4 +201,8 @@ hr.hr-divider {
   width: 65%;
   clear: both;
   margin-top: 8em;
+}
+
+hr.hr-divider.footer {
+  padding-top: 0;
 }
