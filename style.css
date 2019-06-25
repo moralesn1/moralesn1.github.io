@@ -172,6 +172,10 @@ div.row.top-buffer {
   margin-top: 50px;
 }
 
+img.project-images:hover {
+  opacity: 0.6;
+}
+
 /* Footer CSS */
 .page-footer {
   background-color: black;
