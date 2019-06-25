@@ -45,6 +45,18 @@ ul.nav.navbar-nav.navbar-right {
   justify-content: flex-end;
 }
 
+div.dropdown-menu.show {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+a#navbarDropdown.nav-link.dropdown-toggle {
+  color: rgb(255, 255, 255);
+}
+
+a.dropdown-item {
+  color: rgb(255, 255, 255);
+}
+
 /* Navbar hover color */
 
 .navbar-light .navbar-nav .nav-link:focus,
