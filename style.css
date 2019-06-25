@@ -202,3 +202,7 @@ hr.hr-divider {
   clear: both;
   margin-top: 8em;
 }
+
+hr.hr-divider.footer {
+  padding-top: 0;
+}
