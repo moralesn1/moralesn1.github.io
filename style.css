@@ -86,7 +86,9 @@ a.nav-link img:hover {
 }
 
 .navbar-light .navbar-toggler-icon {
-  background-image: url("https://mdbootstrap.com/img/svg/hamburger6.svg?color=000");
+  background-image: url("docs/icons8-menu-filled.svg");
+  height: 30px;
+  width: 30px;
 }
 
 /* Hero Jumbotron */
